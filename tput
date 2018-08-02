@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+clear
+tput bold
+tput blink # coloca o terminal em modo piscante
+tput smul # coloca to terminal sublinhado
+tput setaf 4
+tput setab 0
+echo -e "\t\t\tDigite algo:"
+tput sgr0 # zera as configurações do tput
+tput ed  # limpa a tela a partir da posição do cursor
+tput cup 2 23 # posiciona o cursors na lin e culumn desejada 
+tput setb 6
+read
