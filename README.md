@@ -1,2 +1,3 @@
-# geral
-Repositório para informações gerais
+#-Shell-scripts
+
+Apenas para consulta
