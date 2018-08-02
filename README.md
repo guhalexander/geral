@@ -1,3 +1,3 @@
 #-Shell-scripts
 
-Apenas para consulta
+Dando uma olhada no comando tput
